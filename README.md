@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I'm a Computer Science student who loves web development, with a strong inclination towards backend technologies. I enjoy solving problems, learning new skills, and building functional and efficient systems.
+I'm a Computer Engineer student who loves web development, with a strong inclination towards backend technologies. I enjoy solving problems, learning new skills, and building functional and efficient systems.
 
 * 🌍  I'm based in Chile
 * ✉️  You can contact me at [felipecastillo1604@gmail.com](mailto:felipecastillo1604@gmail.com)
