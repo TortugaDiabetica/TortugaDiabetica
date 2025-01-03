@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I'm a Computer Engineer student who loves web development, with a strong inclination towards backend technologies. I enjoy solving problems, learning new skills, and building functional and efficient systems.
+I'm a Computer Science student who loves web development, with a strong inclination towards backend technologies. I enjoy solving problems, learning new skills, and building functional and efficient systems.
 
 * 🌍  I'm based in Chile
 * ✉️  You can contact me at [felipecastillo1604@gmail.com](mailto:felipecastillo1604@gmail.com)
@@ -27,5 +27,9 @@ I'm a Computer Engineer student who loves web development, with a strong inclina
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/TortugaDiabetica"><img src="https://github-readme-stats.vercel.app/api?username=TortugaDiabetica&show_icons=true&hide=stars,prs,&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="TortugaDiabetica's GitHub stats" /></a>
+
+<a href="http://www.github.com/TortugaDiabetica"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TortugaDiabetica&stroke=ffffff&background=0f172a&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/TortugaDiabetica"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=TortugaDiabetica&bg_color=0f172a&color=ffffff&line=3382ed&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/TortugaDiabetica" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TortugaDiabetica&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
