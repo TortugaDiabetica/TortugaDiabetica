@@ -30,6 +30,4 @@ I'm a Computer Science student who loves web development, with a strong inclinat
 
 <a href="http://www.github.com/TortugaDiabetica"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TortugaDiabetica&stroke=ffffff&background=0f172a&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/TortugaDiabetica"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=TortugaDiabetica&bg_color=0f172a&color=ffffff&line=3382ed&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/TortugaDiabetica" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TortugaDiabetica&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
