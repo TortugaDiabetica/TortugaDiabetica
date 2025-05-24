@@ -6,9 +6,9 @@ Full Stack Developer
 
 I'm a Computer Engineer student who loves web development, with a strong inclination towards backend technologies. I enjoy solving problems, learning new skills, and building functional and efficient systems.
 
-* 🌍  I'm based in Chile
+* 🌍  I'm based in Chile.
 * ✉️  You can contact me at [felipecastillo1604@gmail.com](mailto:felipecastillo1604@gmail.com)
-* 🧠  Currently learning Flask.
+* 🧠  Currently learning NodeJS.
 * 🤝  I'm open to collaborating on open-source projects and any web development tasks that align with my skills. 😄
 * ⚡  Don't tell my mom I like JavaScript 👀
 
