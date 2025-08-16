@@ -8,7 +8,7 @@ I'm a Computer Engineer student who loves web development, with a strong inclina
 
 * 🌍  I'm based in Chile.
 * ✉️  You can contact me at [felipecastillo1604@gmail.com](mailto:felipecastillo1604@gmail.com)
-* 🧠  Currently learning NodeJS.
+* 🧠  Currently learning Angular.
 * 🤝  I'm open to collaborating on open-source projects and any web development tasks that align with my skills. 😄
 * ⚡  Don't tell my mom I like JavaScript 👀
 
