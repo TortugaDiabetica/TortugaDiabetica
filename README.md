@@ -8,7 +8,7 @@ Full Stack Developer
 
 - 🔭 I'm currently working on **IoT system for environmental monitoring and alerts of the area with ESP32 microcontroller.**
 
-- 🌱 I'm currently learning **Embedded systems with ESP32 and Nuxt JS.**
+- 🌱 I'm currently learning **Embedded systems with ESP32 and Arduino.**
 
 - 👯 I'm looking to collaborate on ** open-source projects and any web development tasks that align with my skills. 😄**
 
@@ -20,7 +20,7 @@ Full Stack Developer
 <p align="left">
 <a href="https://github.com/TortugaDiabetica" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="TortugaDiabetica" height="30" width="40" /></a>
 <a href="https://hackerrank.com/TortugaDiabetica" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="TortugaDiabetica" height="30" width="40" /></a>
-<a href="https://leetcode.com/TortugaDiabetica" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="TortugaDiabetica" height="30" width="40" /></a>
+<a href="https://leetcode.com/felipecastillo1604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="TortugaDiabetica" height="30" width="40" /></a>
 <a href="https://discord.gg/tortugadiabetica" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tortugadiabetica" height="30" width="40" /></a>
 </p>
 
