@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TortugaDiabetica" alt="TortugaDiabetica" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TortugaDiabetica" alt="TortugaDiabetica" /></a> </p> -->
 
 - 🔭 I'm currently working on **IoT system for environmental monitoring and alerts of the area with ESP32 microcontroller.**
 
@@ -31,4 +31,4 @@ Full Stack Developer
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TortugaDiabetica&show_icons=true&locale=en" alt="TortugaDiabetica" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TortugaDiabetica&" alt="TortugaDiabetica" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TortugaDiabetica&" alt="TortugaDiabetica" /></p> -->
