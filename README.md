@@ -6,8 +6,6 @@ Full Stack Developer
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TortugaDiabetica" alt="TortugaDiabetica" /></a> </p> -->
 
-- 🔭 I'm currently working on **IoT system for environmental monitoring and alerts of the area with ESP32 microcontroller.**
-
 - 🌱 I'm currently learning **Embedded systems with ESP32 and Arduino.**
 
 - 👯 I'm looking to collaborate on ** open-source projects and any web development tasks that align with my skills. 😄**
